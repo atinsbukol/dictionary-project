@@ -15,8 +15,11 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small>
-        Coded by Bukky
-        </small></footer>
+        Coded by <a href="https://nimble-scone-366298.netlify.app/" target="_blank" rel="noreferrer"> Bukky</a> 
+        and it is  Open-source on <a href="https://github.com/atinsbukol/dictionary-project" target="_blank" rel="noreferrer">Github</a> 
+        and <a href="https://bukky-dictionary-project.netlify.app/" translate="_blank" rel="noreferrer"> netlify </a>
+        </small>
+        </footer>
 
       </div>
       
